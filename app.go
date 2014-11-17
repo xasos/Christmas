@@ -3,11 +3,11 @@ package main
 import "github.com/codegangsta/martini"
 
 func main() {
-	m := martini.Classic()
-	
-	m.get("/", func() string {
-		return "Merry Christmas!"
-	})
+    m := martini.Classic()
 
-	m.run()
+    m.Get("/", func() string {
+        return "Merry Christmas!"
+    })
+
+    m.Run()
 }
