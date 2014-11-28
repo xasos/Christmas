@@ -13,9 +13,18 @@
 			"Rev": "bd8578f41c9b53278c4ada731fe5beac03f80d77"
 		},
 		{
+			"ImportPath": "github.com/codegangsta/martini-contrib/binding",
+			"Comment": "v0.1-159-g8ce6181",
+			"Rev": "8ce6181c2609699e4c7cd30994b76a850a9cdadc"
+		},
+		{
 			"ImportPath": "github.com/codegangsta/martini-contrib/render",
 			"Comment": "v0.1-159-g8ce6181",
 			"Rev": "8ce6181c2609699e4c7cd30994b76a850a9cdadc"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2",
+			"Rev": "e2e914857713db7497cca2bd7fc0b030fc9cb22d"
 		}
 	]
 }
