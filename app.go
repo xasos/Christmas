@@ -1,10 +1,8 @@
 package main
 
 import (
-
 	"github.com/codegangsta/martini"
 	"github.com/codegangsta/martini-contrib/render"
-
 )
 
 func main() {
