@@ -2,9 +2,9 @@ package main
 
 import (
 	"github.com/codegangsta/martini"
-    "github.com/codegangsta/martini-contrib/binding"
+	"github.com/codegangsta/martini-contrib/binding"
 	"github.com/codegangsta/martini-contrib/render"
-    "gopkg.in/mgo.v2"
+	"gopkg.in/mgo.v2"
 )
 
 type Wish struct {
